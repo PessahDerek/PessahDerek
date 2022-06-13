@@ -1,6 +1,6 @@
-- 👋 Hi, I’m <h1>Derek Pessah</h1>
-- 👀 This is my <h1>passion</h1>
-- 🌱 Currently, I'm working with <h1>MERN stack</h1> and <h1>Python</h1>
+- 👋 Hi, I’m <h4>Derek Pessah</h4>
+- 👀 This is my <h4>passion</h4>
+- 🌱 Currently, I'm working with <h4>MERN stack</h4> and <h4>Python</h4>
 - 📫 Reach me on twitter <i>@itsDerek</i>
 <!---
 PessahDerek/PessahDerek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
