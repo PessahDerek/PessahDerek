@@ -1,56 +1,15 @@
 # Derek Pesa
 
-Full Stack Web Developer
+Frontend Developer
 
 ## Skills
 
-- React
-- React Native
-- Node.js
-- MongoDB
-- HTML
-- CSS
-- Python
-
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 0;
-  }
-
-  h1 {
-    font-size: 36px;
-    color: #333;
-    margin-top: 40px;
-    margin-bottom: 10px;
-    text-align: center;
-  }
-
-  h2 {
-    font-size: 24px;
-    color: #333;
-    margin-top: 30px;
-    margin-bottom: 10px;
-  }
-
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  li {
-    margin-bottom: 5px;
-  }
-
-  a {
-    color: #0066cc;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+<ul style="list-style: none; padding: 0; margin: 0;">
+  <li style="margin-bottom: 5px;">React</li>
+  <li style="margin-bottom: 5px;">React Native</li>
+  <li style="margin-bottom: 5px;">Node.js</li>
+  <li style="margin-bottom: 5px;">MongoDB</li>
+  <li style="margin-bottom: 5px;">HTML</li>
+  <li style="margin-bottom: 5px;">CSS</li>
+  <li style="margin-bottom: 5px;">Python</li>
+</ul>
