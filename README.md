@@ -1,8 +1,56 @@
-- 👋 Hi, I’m <h4>Derek Pessah</h4>
-- 👀 This is my <h4>passion</h4>
-- 🌱 Currently, I'm working with <h4>MERN stack</h4> and <h4>Python</h4>
-- 📫 Reach me on twitter <i>@itsDerek</i>
-<!---
-PessahDerek/PessahDerek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Derek Pesa
+
+Full Stack Web Developer
+
+## Skills
+
+- React
+- React Native
+- Node.js
+- MongoDB
+- HTML
+- CSS
+- Python
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    font-size: 36px;
+    color: #333;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 5px;
+  }
+
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
