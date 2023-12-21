@@ -8,6 +8,7 @@ I'm a passionate software developer with expertise in React, React Native, Node.
 - Freelancing on Clients' projects
 - Building a personal website to showcase my portfolio and skills.
 <!-- - Contributing to open-source projects to collaborate with the community. -->
+[![wakatime](https://wakatime.com/badge/user/c9237066-75b2-4230-87f6-f0cc423550d0.svg)](https://wakatime.com/@c9237066-75b2-4230-87f6-f0cc423550d0)
 
 ## What I'm Learning
 
