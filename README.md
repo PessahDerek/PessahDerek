@@ -1,4 +1,4 @@
-# Hello, I'm Derek Pesa! 👋
+# Hello, I'm Derek Pesa👋
 
 I'm a passionate software developer with expertise in React, React Native, Node.js, MongoDB, HTML, CSS, and Python. I enjoy building scalable and user-friendly applications that solve real-world problems. Constantly seeking opportunities to learn and grow, I love exploring new technologies and staying up-to-date with industry trends.
 
