@@ -5,15 +5,17 @@ I'm a passionate software developer with expertise in React, React Native, Node.
 ## What I'm Working On
 
 <!-- - Currently developing a React Native mobile app for task management. -->
-- Freelancing on Clients' projects
-- Building a personal website to showcase my portfolio and skills.
+- Freelancing on clients' projects
+- Developing real world products
+- Focusing on backend engineering
 <!-- - Contributing to open-source projects to collaborate with the community. -->
 [![wakatime](https://wakatime.com/badge/user/c9237066-75b2-4230-87f6-f0cc423550d0.svg)](https://wakatime.com/@c9237066-75b2-4230-87f6-f0cc423550d0)
 
 ## What I'm Learning
 
-- Exploring advanced concepts in React for building complex UIs.
-- Deepening my knowledge of backend development with Node.js and MongoDB.
+- Advanced concepts in React for building complex UIs.
+- Backend engineering with a focus on python FastAPI and javascript Express.
+- Securing systems.
 <!-- - Diving into data analysis and visualization using Python. -->
 
 ## Looking to Collaborate?
@@ -23,7 +25,8 @@ I'm a passionate software developer with expertise in React, React Native, Node.
 
 ## Get in Touch
 
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v2.png), @itsDevDerek](https://twitter.com/itsdevderek)
+<!-- [![Twitter](https://img.icons8.com/color/48/000000/twitter--v2.png), @itsDevDerek](https://twitter.com/itsdevderek) -->
+[![Twitter](https://raw.githubusercontent.com/twitter/twemoji/master/svg/twitter.svg)](https://twitter.com/itsDevDerek) - Follow me on Twitter to connect and for tech-talk
 <!-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-profile) -->
 [![Personal Website](https://img.icons8.com/color/48/000000/domain--v1.png)](https://www.iamderek.tech)www.iamderek.tech
 
