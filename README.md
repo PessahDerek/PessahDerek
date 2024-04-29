@@ -26,7 +26,8 @@ I'm a passionate software developer with expertise in React, React Native, Node.
 ## Get in Touch
 
 <!-- [![Twitter](https://img.icons8.com/color/48/000000/twitter--v2.png), @itsDevDerek](https://twitter.com/itsdevderek) -->
-<a href="https://twitter.com/itsDevDerek" target="_blank"><i class="fab fa-twitter"></i>
+[![Twitter](https://img.shields.io/twitter/follow/itsDevDerek?style=social)](https://twitter.com/itsDevDerek) - Follow me on Twitter for updates and coding adventures!
+
 Follow me on Twitter to connect and for tech-talk</a>
 <!-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-profile) -->
 [![Personal Website](https://img.icons8.com/color/48/000000/domain--v1.png)](https://www.iamderek.tech)www.iamderek.tech
